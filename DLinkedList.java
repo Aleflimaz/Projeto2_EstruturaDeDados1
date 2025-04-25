@@ -12,7 +12,7 @@ package apl2;
 // -- A classe deve sobrescrever (override) o método public String toString()
 // {...}, retornando uma string com o conteúdo da lista.
 // -- A classe deve implementar as operações a seguir, respeitando o
-// comportamento descrito em cada operação.
+// comportamento descrito em cada operação.//d
 
 public class DLinkedList {
 	
